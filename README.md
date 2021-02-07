@@ -1,6 +1,6 @@
-# thut-vs-git
+# Thut and his Git
 
-![Thut](thut.jpeg)
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">![Thut](thut.jpeg)<a>
 
 Because professor in Chula teach Git like a shit that's why this repositories is made for Thut Thamrongnawasawat.
 
